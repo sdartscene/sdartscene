@@ -2,6 +2,7 @@
 # Site Settings
 
 baseURL = "//www.sdartscene.net"
+canonifyURLs: false
 title = "San Diego Arts and Culture"
 languageCode = "en"
 hasCJKLanguage = false
