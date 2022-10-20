@@ -1,5 +1,6 @@
 ---
 title: "About"
+slug: 'about'
 date: 2022-10-19T14:13:48-07:00
 ---
 

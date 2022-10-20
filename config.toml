@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "sdartscene.net"
+baseURL = "http://www.sdartscene.net"
 title = "San Diego Arts and Culture"
 languageCode = "en"
 hasCJKLanguage = false
@@ -10,6 +10,8 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 
 # Name of theme
 theme = "meme"
+
+canonifyURLs = false
 
 # `hugo new` automatically opened text editor
 newContentEditor = ""
@@ -198,13 +200,13 @@ uglyURLs = false
 #               `lang-switcher`, `search`)
 
 [menu]
-    ## Menu bar
-    # [[menu.main]]
-    #     pageref = "/"
-    #     name = "Home"
-    #     weight = 1
-    #     pre = "internal"
-    #     post = "home"
+    # Menu bar
+    [[menu.main]]
+        pageref = "/"
+        name = "Home"
+        weight = 1
+        pre = "internal"
+        post = "home"
     [[menu.main]]
         pageref = "/posts/"
         name = "Posts"
