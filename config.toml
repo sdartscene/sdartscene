@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://www.sdartscene.net/"
+baseURL = "/"
 title = "San Diego Arts and Culture"
 languageCode = "en"
 hasCJKLanguage = false
