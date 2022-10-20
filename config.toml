@@ -1,8 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "//www.sdartscene.net"
-canonifyURLs = false
+baseURL = "sdartscene.net"
 title = "San Diego Arts and Culture"
 languageCode = "en"
 hasCJKLanguage = false
@@ -44,7 +43,7 @@ paginate = 5
 
 # URL related
 disablePathToLower = false
-relativeURLs = false
+relativeURLs = true
 uglyURLs = false
 
 # URL structure
