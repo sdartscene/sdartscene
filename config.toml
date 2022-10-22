@@ -57,6 +57,10 @@ uglyURLs = false
 [taxonomies]
     category = "categories"
     tag = "tags"
+    venue = "venues"
+    artist = "artists"
+    band = "bands"
+    skate-mob = "skate-mobs"
 
 # Modified date
 [frontmatter]
@@ -202,11 +206,29 @@ uglyURLs = false
 [menu]
     # Menu bar
     [[menu.main]]
-        pageref = "/"
-        name = "Home"
+        pageref = "/venues/"
+        name = "Venues"
         weight = 1
         pre = "internal"
         post = "home"
+    [[menu.main]]
+        pageref = "/artists/"
+        name = "Artists"
+        weight = 5
+        pre = "internal"
+        post = "user-circle"
+    [[menu.main]]
+        pageref = "/bands/"
+        name = "Bands"
+        weight = 3
+        pre = "internal"
+        post = "th"
+    [[menu.main]]
+        pageref = "/skate-mobs/"
+        name = "Skate Mobs"
+        weight = 3
+        pre = "internal"
+        post = "th"
     [[menu.main]]
         pageref = "/posts/"
         name = "Posts"
