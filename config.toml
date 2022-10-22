@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://www.sdartscene.net"
-title = "San Diego Arts and Culture"
+title = "SDArtScene.net"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -45,7 +45,7 @@ paginate = 5
 
 # URL related
 disablePathToLower = false
-relativeURLs = true
+relativeURLs = false
 uglyURLs = false
 
 # URL structure
