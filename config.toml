@@ -60,7 +60,6 @@ uglyURLs = false
     venue = "venues"
     artist = "artists"
     band = "bands"
-    skate-mob = "skate-mobs"
 
 # Modified date
 [frontmatter]
@@ -167,6 +166,11 @@ uglyURLs = false
 [services.rss]
     limit = -1
 
+# [services.instagram]
+    # appID = "840549107279163"
+    # accessToken = "EAAL8eZAb0pTsBAOArZBZAZBjZCDGJIQnRhaikskoZB3qjQfvsZCoPI7SG48OP0oxiS6p09Ng42kxI8dggtQNNZCHyx9rZBHW5xQyFrjT940l1JSeMZBwfKrOpsv1Uy6KmoZBba1LfTpZBeiyzZCayDGf1GXwZCxX475CXC4PDL7gsWiWZAtEatuyJWQl8C6rqk6daWlP9XhDR6akjKwfpUGD7Awv74F6aPknq2dtxDQEiR3FHsZBu6MW0CZA3fERP"
+
+
 
 
 ##########################################
@@ -220,12 +224,6 @@ uglyURLs = false
     [[menu.main]]
         pageref = "/bands/"
         name = "Bands"
-        weight = 3
-        pre = "internal"
-        post = "th"
-    [[menu.main]]
-        pageref = "/skate-mobs/"
-        name = "Skate Mobs"
         weight = 3
         pre = "internal"
         post = "th"
