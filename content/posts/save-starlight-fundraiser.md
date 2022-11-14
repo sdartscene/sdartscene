@@ -1,7 +1,7 @@
 ---
 title: "Save Starlight Fundraiser"
 date: 2022-11-14T12:04:20-08:00
-draft: true
+draft: false
 venues: ["The Starlight Bowl"]
 artists: ["Hannah Geller", "J. Yoki", "Avery Cochrane", "JMaTy"]
 bands: ["Lucky and the Cosmos"]
