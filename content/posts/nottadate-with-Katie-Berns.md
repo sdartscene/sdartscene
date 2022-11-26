@@ -1,6 +1,8 @@
 ---
 title: "Nottadate With Katie Berns"
 date: 2022-11-26T09:13:40-08:00
+tags: ["Katie Berns", "Balboa Park", "MOPA", "ICA", "Sreshta Rit Premnath", "Cara Knott", "tenam", "infrastructure", "15 Cathedral", "Best Practices", "Jacumba Hot Springs Hotel", "Bread & Salt", "The Watchers", "SDFaSoLa", "BikeCore", "tragedy"]
+artists: ["Katie Berns", "Sreshta Rit Premnath"]
 draft: true
 ---
 
@@ -46,9 +48,16 @@ Artists work for an unknowably laundered amount of time to make a very particula
 She is incredibly sensitive to the feedback and processing of others and how it destroys the slowly evolving inner image an artist wants to externalize.
 She has performed at [Tenam Studio](https://www.tenamstudio.com/) and told me that she actually dislikes the expectation that the artist speak with the audience for a short time after the performance.
 They would never tell you if the performance was bad.
+
 > For the record:
 > 
 > I don't think everyone was into her BikeCore noise performance, despite me laughing my ass off at her incessant joyous greetings.
+
+We talked about my own recent perfomance at tenam where I was a polar bear searching for food who gets shot just before satisfying this base need.
+I hadn't considered children being there.
+Tradgedy for children.
+Maybe they'll talk about it in therapy; maybe it'll save their life knowing that not all things work out.
+I didn't write the story, I don't really know what [Lexi](https://www.lexipulido.com/) intended.
 
 And now I've talked about all these things with my own intentions, expectations, aesthetic and profound ignorance and colored them in a picture frame that I own with little discussion or input from those I'm talking about.
 
