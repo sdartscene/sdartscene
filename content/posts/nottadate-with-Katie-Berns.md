@@ -1,8 +1,10 @@
 ---
 title: "Nottadate With Katie Berns"
 date: 2022-11-26T09:13:40-08:00
-tags: ["Katie Berns", "Balboa Park", "MOPA", "ICA", "Sreshta Rit Premnath", "Cara Knott", "tenam", "infrastructure", "15 Cathedral", "Best Practices", "Jacumba Hot Springs Hotel", "Bread & Salt", "The Watchers", "SDFaSoLa", "BikeCore", "tragedy"]
+tags: ["Katie Berns", "Balboa Park", "MOPA", "ICA", "Sreshta Rit Premnath", "Cara Knott", "tenam", "infrastructure", "15 Cathedral", "Best Practices", "Jacumba Hot Springs Hotel", "Bread & Salt", "The Watchers", "SDFaSoLa", "BikeCore", "tragedy", "lazzliee"]
 artists: ["Katie Berns", "Sreshta Rit Premnath"]
+author: ["Juniper Grato"]
+authors: ["Juniper Grato", "Katie Berns"]
 draft: true
 ---
 
@@ -51,7 +53,7 @@ They would never tell you if the performance was bad.
 
 > For the record:
 > 
-> I don't think everyone was into her BikeCore noise performance, despite me laughing my ass off at her incessant joyous greetings.
+> I don't think everyone was into her BikeCore noise performance directed by [lazzliee@instagram](https://www.instagram.com/lazzliee/), despite me laughing my ass off at her incessant joyous greetings.
 
 We talked about my own recent perfomance at tenam where I was a polar bear searching for food who gets shot just before satisfying this base need.
 I hadn't considered children being there.
@@ -64,4 +66,6 @@ And now I've talked about all these things with my own intentions, expectations,
 I found the golden hour striking on Katie's face above the quince street bridge.
 We're sitting on the guardrail of the road and I'm not exactly sure what message it might send if I were to ask to take a picture of her.
 
-She's going to a thing [Batya](https://bmacadamsomer.wordpress.com/) is putting on and I'm not invited.
+She's going to a thing and I'm not invited.
+
+

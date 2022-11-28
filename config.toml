@@ -60,6 +60,7 @@ uglyURLs = false
     venue = "venues"
     artist = "artists"
     band = "bands"
+    author = "authors"
 
 # Modified date
 [frontmatter]
@@ -102,14 +103,13 @@ uglyURLs = false
 
 # Author’s information
 [author]
-    # Name
     name = "Juniper Grato"
     # Email
-    email = "p3rlsnap@yahoo.com"
+    email = "vincent@approaching236.com"
     # Motto or introduction
     motto = "Up is almost invariably better"
     # Personal website, default: baseURL
-    website = "https://approaching236.github.io/"
+    website = "https://approaching236.com/"
 
 # Related content
 [related]
