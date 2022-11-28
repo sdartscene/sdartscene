@@ -53,7 +53,7 @@ They would never tell you if the performance was bad.
 
 > For the record:
 > 
-> I don't think everyone was into her BikeCore noise performance directed by [lazzliee@instagram](https://www.instagram.com/lazzliee/), despite me laughing my ass off at her incessant joyous greetings.
+> I don't think everyone was into her BikeCore noise performance directed by [lazzliee@instagram](https://www.instagram.com/lazzliee/), despite me laughing my ass off at their incessant joyous greetings.
 
 We talked about my own recent perfomance at tenam where I was a polar bear searching for food who gets shot just before satisfying this base need.
 I hadn't considered children being there.
