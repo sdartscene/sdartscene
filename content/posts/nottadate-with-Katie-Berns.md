@@ -5,12 +5,10 @@ tags: ["Katie Berns", "Balboa Park", "MOPA", "ICA", "Sreshta Rit Premnath", "Car
 artists: ["Katie Berns", "Sreshta Rit Premnath"]
 author: ["Juniper Grato"]
 authors: ["Juniper Grato", "Katie Berns"]
-draft: true
+draft: false
 ---
 
 Katie Berns is an artist, musician, performer, neurodiversity professional and one of the most legitimetly cool and interesting people I've had the pleasure of meeting.
-I can't say exactly where I met her first.
-Somewhere in that alcoholic haze of house shows and art events I've lost a lot of introductions and subtlety.
 
 She once caught me longing at a [Best Practices](https://www.practicebest.org/past-exhibtions) event held at [Bread & Salt](https://www.breadandsaltsandiego.com), and I mistook her empathy or awareness as interest.
 Who knows what relationships are anymore.
@@ -28,7 +26,7 @@ The stairs lead down to a basement that was occupied by: [Sreshta Rit Premnath: 
 While I didn't care to look for an artist statement, talking all over the work I'd say I've found a lot of joy in the in between places of infrastructure.
 * The dam at my childhood pond [17-B](https://www.sandiegoponds.info/p/pond-17b.html).
 * The [15 Cathedral](https://en.wikipedia.org/wiki/Murder_of_Cara_Knott).
-* Anywhere you can see the salt quarry along the [South By Bike Path](https://www.sandiego.org/articles/biking/bike-route-bayshore-bikeway.aspx).
+* Anywhere you can see the salt quarry along the [South Bay Bike Path](https://www.sandiego.org/articles/biking/bike-route-bayshore-bikeway.aspx).
 
 Grave/Grove was a number of sculptures with human? forms flopping about flashing filled with dead and dying street weeds hooked up to IVs of refuse.
 
@@ -68,4 +66,4 @@ We're sitting on the guardrail of the road and I'm not exactly sure what message
 
 She's going to a thing and I'm not invited.
 
-
+Postscript: I wrote this a while back and let it stymie the whole project. I wish I had permission or cooperation to have interleaved dialogue, but I guess sometimes we just need to accept the lesser thing that we do have permission to do and appreciate it for what it is.
