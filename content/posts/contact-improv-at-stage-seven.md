@@ -2,7 +2,7 @@
 title: "Contact Improv at Stage Seven"
 date: 2023-06-08T15:52:14-07:00
 tags: ["Dance", "Stage 7", "Improvisation", "Live Music", "Contact Improv"]
-artists: ["Justin Morrison", "Kelly Einbinder", "Preston Swirnoff", "Lexi Pullido", "Sean Francis Conway"]
+artists: ["Justin Morrison", "Kelly Einbinder", "Preston Swirnoff", "Lexi Pulido", "Sean Francis Conway"]
 author: ["Juniper Grato"]
 draft: false
 ---
@@ -18,7 +18,7 @@ It can be similar to Ecstatic Dance.
 When I'm feeling wry I describe it to friends as a cut scene in a sitcom where they would like to stress the point that 'these are weird art people'.
 It's a non-judgemental space without an audience or an intention of performance outside of being in the present moment that is the practice itself.
 
-In my visits, I've been treated to a rotating cast of phenomenal improvisational musicians like [Preston Swirnoff](https://www.prestonswirnoff.com/about), [Lexi Pullido](https://www.lexipulido.com/) and [Kelly Einbinder](https://kellyeinbinder.bandcamp.com/album/music-for-stuck-bodies).
+In my visits, I've been treated to a rotating cast of phenomenal improvisational musicians like [Preston Swirnoff](https://www.prestonswirnoff.com/about), [Lexi Pulido](https://www.lexipulido.com/) and [Kelly Einbinder](https://kellyeinbinder.bandcamp.com/album/music-for-stuck-bodies).
 Let alone the authentic interactions of a delightful group of experimental dancers who move through a non-process (outside of a quick talk about registration, consent and donation) that appeals to dancers of all levels of experience.
 
 [Sean Francis Conway](https://seanfrancisconway.com/) performs every first Monday of the month.
