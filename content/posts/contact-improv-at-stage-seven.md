@@ -7,12 +7,14 @@ author: ["Juniper Grato"]
 draft: false
 ---
 
+[Update! Now held at San Diego Dance Theater!](/posts/contact-improvising)
+
 However you listen to music, I'd like to invite you to listen to "Backstage With The Modern Dancers" by Great Lake Swimmers.
 This song from my own college years helped me identify a fantasy that, given that I went to a commuter school for a technical degree, would likely have remain unrequited had I not been introduce to this space.
 This dance jam has meant a fair bit to me.
 My being a complete amateur hasn't seemed to matter in the least.
 
-Justin Morrison (justindances@instagram) and [Stage 7](https://www.stage7.com/) have been hosting a Contact Improv jam for many years, though I've only started attending within the last year or so.
+Justin Morrison (justindances@instagram) and ~~[Stage 7](https://www.stage7.com/)~~ (Now held at San Diego Dance Theater) have been hosting a Contact Improv jam for many years, though I've only started attending within the last year or so.
 Contact Improv is a form of dance that doesn't stress any given form, style or choreography, but instead prompts you to improvise movement based on the music and the psychosomatic listening you develop while maintaining physical contact with your dance partners.
 It can be similar to Ecstatic Dance.
 When I'm feeling wry I describe it to friends as a cut scene in a sitcom where they would like to stress the point that 'these are weird art people'.
@@ -37,4 +39,4 @@ To let go of that defensiveness that can be down so low in my subconscious and i
 I still catch myself trying to lead a dance more than I'd like, being too greedy in life and ruining the moment by imposing my expectation.
 Luckily, everyone seems to understand that mistakes might be made and this is a special place to grow as a listener in music, dance and human relation.
 
-Contact Improv is held at Stage 7 every Monday from 6:30 to 9 currently with a $10 contribution.
+[Contact Improv](/posts/contact-improvising) is now held at San Diego Dance Theater every Monday from 6:30 to 9 with a $10 contribution.
