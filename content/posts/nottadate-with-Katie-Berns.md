@@ -5,7 +5,7 @@ tags: ["Katie Berns", "Balboa Park", "MOPA", "ICA", "Sreshta Rit Premnath", "Car
 artists: ["Katie Berns", "Sreshta Rit Premnath"]
 author: ["Juniper Grato"]
 authors: ["Juniper Grato", "Katie Berns"]
-draft: false
+draft: true
 ---
 
 Katie Berns is an artist, musician, performer, neurodiversity professional and one of the most legitimetly cool and interesting people I've had the pleasure of meeting.
