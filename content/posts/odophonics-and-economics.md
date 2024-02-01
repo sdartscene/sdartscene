@@ -14,6 +14,13 @@ tags:
   - Sean Francis Conway
   - Dr. Batya MacAdams-Somer
   - Brian Goeltzenleuchter
+artists:
+  - Brian Goeltzenleuchter
+  - Sean Francis Conway
+  - Dr. Batya MacAdams-Somer
+  - Rebecca Matayoshi
+  - Robbie Bui
+  - Kathryn Schulmeister
 ---
 
 I was able to attend a show entitled Odophonics, a collaboration between the olfactory artist [Brian Goeltzenleuchter](https://www.bgprojects.com/home/2017/9/4/odophonics), composer [Sean Francis Conway](https://seanfrancisconway.com/index.html), and performed by the string quartet [Dr. Batya MacAdams-Somer](https://bmacadamsomer.wordpress.com/), [Rebecca Matayoshi](https://www.sandiegosymphony.org/about-the-sdso/orchestra-members/member/rebecca-matayoshi/), [Robbie Bui](https://www.robertbui.org/) and [Kathryn Schulmeister](https://kathrynschulmeister.com/).

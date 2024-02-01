@@ -3,7 +3,7 @@ title: "\"Blossoming\" and \"In the Palm of My Hand\" at Tenam Studio"
 date: 2022-11-18T11:04:06-08:00
 draft: false
 tags: ["tenam", "Lexi Pulido", "performance art", "brick and mortar", "10 AM", "rebirth", "sacrifice"]
-artists: ["Lexi Pulido", "Natasha Kozally"]
+artists: ["Lexi Pulido", "Natasha Kozaily"]
 venues: ["Tenam Studio"]
 images: ['/img/tenam\_blossoming\_smile\_20221118.jpg']
 ---

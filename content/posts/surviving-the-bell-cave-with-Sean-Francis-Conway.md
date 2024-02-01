@@ -7,6 +7,12 @@ tags:
   - Sean Francis Conway
   - economics
   - residence
+artists:
+  - Sean Francis Conway
+  - Brennan Hubbell
+  - Mei-Ling Martinez
+  - Nicole Gonzalez
+  - Linda Litterel
 ---
 
 S[pace 4 Art](https://www.sdspace4art.org/) is an artist-built, if not owned nor managed, creative center in East Village. It's a live-work studio space that also hosts events and community events for youth and adults alike. I think the tech world might call this an incubator, offering affordable space to working artists and a community to grow the all-important network of an artists life.

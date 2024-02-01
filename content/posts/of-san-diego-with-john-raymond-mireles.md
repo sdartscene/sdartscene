@@ -8,6 +8,8 @@ tags:
   - Public Libraries
   - San Diego Commission for Arts and Culture
   - Exposure Photo Fellow
+artists:
+  - John Raymond Mireles
 ---
 
 I met [John Raymond Mireles](https://www.jraymondm.com/) while working out of the Kensington Library.
@@ -79,3 +81,6 @@ They say a bunch of other stuff too, but I think a society should be made of int
 Maybe existance is just wasteful and we do need more people to stare at computer screens to do whatever the board tells them to.
 
 Maybe we need to make more art, organize better, and learn how to write a grant proposal.
+
+John Raymond Mireles' work was recently featured at the [San Diego Museum of Art](https://www.jraymondm.com/sdma-disestablishment).
+I hope to see his work adorn the Kensington library soon.
