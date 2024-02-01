@@ -8,7 +8,6 @@ tags:
   - Public Libraries
   - San Diego Commission for Arts and Culture
   - Exposure Photo Fellow
-  - 
 ---
 
 I met [John Raymond Mireles](https://www.jraymondm.com/) while working out of the Kensington Library.

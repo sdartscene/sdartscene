@@ -2,6 +2,11 @@
 title: "Surviving the Bell Cave With Sean Francis Conway"
 date: 2023-06-14T13:39:27-07:00
 draft: false
+tags:
+  - space4art
+  - Sean Francis Conway
+  - economics
+  - residence
 ---
 
 S[pace 4 Art](https://www.sdspace4art.org/) is an artist-built, if not owned nor managed, creative center in East Village. It's a live-work studio space that also hosts events and community events for youth and adults alike. I think the tech world might call this an incubator, offering affordable space to working artists and a community to grow the all-important network of an artists life.
